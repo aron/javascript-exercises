@@ -9,6 +9,8 @@ There are no rules for completing the exercise but we encourage you to try
 them using plain JavaScript first then again with a library to understand
 the difference.
 
+The example gallery (no JavaScript) can be [found on GitHub](http://aron.github.com/javascript-exercises/gallery/).
+
 Step 1
 ------
 
