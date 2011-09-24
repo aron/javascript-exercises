@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+	padding: 20px;
+	color: #fff;
+	background-color: #232c2f;
+}
+
+article {
+	display: block;
+}
+
+.gallery {
+	width: 660px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: #1c2123;
+	border-radius: 5px;
+	box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.8); 
+}
+
+.gallery img {
+	display: block;
+}
+
+.gallery ul {
+	list-style: none;
+	padding: 0;
+	margin: 15px 0 0 -9px;
+	font-size: 0;
+	overflow: hidden;
+}
+
+.gallery li,
+.gallery .fullsize {
+	padding: 9px;
+	border: 1px solid #efefef;
+	background-color: #fff;
+	border-radius: 2px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.gallery li {
+	float: left;
+	padding: 6px;
+	margin-left: 9px;
+}
