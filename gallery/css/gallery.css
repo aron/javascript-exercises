@@ -44,3 +44,13 @@ article {
 	padding: 6px;
 	margin-left: 9px;
 }
+
+.gallery .selected {
+	border-color: #00a8db;
+	background-color: #83dbfe;
+	background-image: -webkit-linear-gradient(#83dbfe, #0399fd);
+	background-image:    -moz-linear-gradient(#83dbfe, #0399fd);
+	background-image:     -ms-linear-gradient(#83dbfe, #0399fd);
+	background-image:      -o-linear-gradient(#83dbfe, #0399fd);
+	background-image:         linear-gradient(#83dbfe, #0399fd);
+}
